@@ -1,2 +1,2 @@
 # Penetration-Testing-Report-on-Metasploitable-2
-Penetration Testing Report on Metasploitable 2
+<p>This penetration testing report on the Metasploitable 2 vulnerable machine contains sensitive security findings and is intended solely for authorized personnel. Unauthorized access, disclosure, or distribution of this report is strictly prohibited. The information within is provided for ethical security research and remediation purposes only. Any misuse of the findings is against ethical hacking principles and may violate legal and organizational policies. Proper precautions must be taken when handling and applying the recommendations outlined in this document.</p>
